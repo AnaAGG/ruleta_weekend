@@ -1,0 +1,7 @@
+colores = {"Equipo1": "Amarillo", 
+          "Equipo2": "Azul", 
+          "Equipo3": "Verde", 
+          "Equipo4"; "Blanco", 
+          "Equipo5": "Morado", 
+          "Equipo6": "Rojo", 
+          "Equipo7": "Naranja" }
